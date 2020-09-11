@@ -1,2 +1,2 @@
 # Hello-World
-This is my Github Hello-World starer program: no need to contribute anything ;)
+This is my Github Hello-World starter program: no need to contribute anything ;)
